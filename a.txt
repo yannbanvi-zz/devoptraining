@@ -1,5 +1,3 @@
 Learning Git
 
 Another line here
-
-Another one
